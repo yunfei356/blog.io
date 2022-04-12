@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "你的博客描述 " 
+title: "关于此站"
+description: "一个帮助青少年和青年塑造思想和人生哲学的资源库 " 
 header-img: "img/green.jpg"
 ---
 
